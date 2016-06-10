@@ -2,7 +2,7 @@
   "name": "meteor-random",
   "main": "index.d.ts",
   "homepage": "https://github.com/trever/meteor-random",
-  "version": "",
+  "version": "0.0.3",
   "devDependencies": {
     "blue-tape": "registry:npm/blue-tape#0.1.0+20160322235613"
   },
